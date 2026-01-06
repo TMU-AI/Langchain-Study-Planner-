@@ -24,9 +24,10 @@ Check your branch:
 
 ```bash
 git branch
+```
 If you see * main, stop.
 
-❌ Skipping Commits
+ ## ❌ Skipping Commits
 Working for a long time without committing:
 
 Makes mistakes harder to fix
@@ -36,34 +37,42 @@ Makes reviews harder
 Commit early.
 Commit often.
 
-❌ Vague Commit Messages
+## ❌ Vague Commit Messages
 Bad:
 
+```bash
 sql
 Copy code
 update
 final
 stuff
+```
+
+
+
 Good:
 
+```bash
 sql
 Copy code
 Add LangChain prompt routing example
 Fix typo in README
-❌ Fear of Pull Requests
+```
+
+## ❌ Fear of Pull Requests
 Pull Requests are required.
 
 They are:
 
-Normal
+### Normal
 
-Expected
+### Expected
 
-How collaboration works
+### How collaboration works
 
-Not opening a PR is the mistake.
+### __Not opening a PR is the mistake.__
 
-❌ Ignoring Errors
+## ❌ Ignoring Errors
 If Git prints an error:
 
 Stop
