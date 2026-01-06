@@ -41,10 +41,10 @@ Commit often.
 Bad:
 
 ```bash
-sql
 update
 final
 stuff
+working now
 ```
 
 
@@ -52,8 +52,7 @@ stuff
 Good:
 
 ```bash
-sql
- Add LangChain prompt routing example
+Add LangChain prompt routing example
 Fix typo in README
 ```
 
