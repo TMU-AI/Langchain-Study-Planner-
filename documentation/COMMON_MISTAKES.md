@@ -42,7 +42,6 @@ Bad:
 
 ```bash
 sql
-Copy code
 update
 final
 stuff
@@ -54,8 +53,7 @@ Good:
 
 ```bash
 sql
-Copy code
-Add LangChain prompt routing example
+ Add LangChain prompt routing example
 Fix typo in README
 ```
 
@@ -75,16 +73,15 @@ They are:
 ## ❌ Ignoring Errors
 If Git prints an error:
 
-Stop
+ 1) Stop
 
-Read it
+2) Read it
 
-Ask for help
+3) Ask for help
 
 Ignoring errors makes things worse.
 
-yaml
-Copy code
+
 
 ---
 
