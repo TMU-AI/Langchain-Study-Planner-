@@ -23,34 +23,47 @@ You will NOT work on `main`.
 ```bash
 git clone https://github.com/TMU-AIMLA/Langchain-Study-Planner.git
 cd Langchain-Study-Planner
-Step 1: Create a New Branch
-bash
+```
+
+
+
+## Step 1: Create a New Branch
+```bash
 Copy code
 git checkout -b your-name/feature-name
+```
+
 Examples:
 
+```bash
 antonio/langchain-notes
 
-sarah/data-cleaning
+John/data-cleaning
 
-alex/prompt-tests
+Bob/prompt-tests
+```
 
-Step 2: Make Your Changes
+## Step 2: Make Your Changes
 Edit files locally.
 Nothing affects the team yet.
 
-Step 3: Commit Your Changes
-bash
-Copy code
+## Step 3: Commit Your Changes
+
+```bash
+
 git add .
 git commit -m "Describe what you changed"
+```
 Your commit message must explain the change.
 
-Step 4: Push Your Branch
-bash
-Copy code
+## Step 4: Push Your Branch
+```bash
+
 git push origin your-branch-name
-Step 5: Open a Pull Request
+```
+
+
+## Step 5: Open a Pull Request
 Go to the GitHub repository
 
 Click Compare & Pull Request
@@ -59,14 +72,14 @@ Write a short explanation of your changes
 
 Submit the Pull Request
 
-Step 6: Wait for Review
+## Step 6: Wait for Review
 A reviewer may request changes
 
 Make requested updates on the same branch
 
 Push again
 
-Step 7: Merge
+## Step 7: Merge
 Only after approval, your changes are merged into main.
 
 This is the full workflow.
