@@ -29,7 +29,6 @@ cd Langchain-Study-Planner
 
 ## Step 1: Create a New Branch
 ```bash
-Copy code
 git checkout -b your-name/feature-name
 ```
 
