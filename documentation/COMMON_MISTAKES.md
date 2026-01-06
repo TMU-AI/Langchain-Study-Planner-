@@ -61,13 +61,13 @@ Pull Requests are required.
 
 They are:
 
-### Normal
+- Normal
 
-### Expected
+- Expected
 
-### How collaboration works
+- How collaboration works
 
-### __Not opening a PR is the mistake.__
+- __Not opening a PR is the mistake.__
 
 ## ❌ Ignoring Errors
 If Git prints an error:
