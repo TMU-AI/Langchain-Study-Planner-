@@ -82,14 +82,6 @@ Ignoring errors makes things worse.
 
 
 
----
-
-This is now **operational documentation**, not teaching prose.
-
-If someone messes up after reading this, it’s not a documentation problem — it’s a process enforcement problem (branch protection, required PRs). That’s the next lever once the repo goes live.
-
-
-
 
 
 
