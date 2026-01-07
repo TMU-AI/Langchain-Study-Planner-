@@ -21,7 +21,7 @@ You will NOT work on `main`.
 ## Step 0: Clone the Repository (Only Once)
 
 ```bash
-git clone https://github.com/TMU-AIMLA/Langchain-Study-Planner.git
+git clone https://github.com/TMU-AI/Langchain-Study-Planner-.git
 cd Langchain-Study-Planner
 ```
 
