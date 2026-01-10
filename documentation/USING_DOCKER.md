@@ -67,11 +67,13 @@ If you see something like:
 Dev Container: <project-name>
 ```
 
-you are inside the machine.
+You are inside the machine.
 
 ---
 
-## INSTALL PROJECT DEPENDENCIES
+## INSTALL PROJECT DEPENDENCIES ON YOUR OWN MACHINE (Optional)
+
+This step is completely optional, as Docker will have everything you need. If you would like to install everything on your own machine, please keep reading
 
 Open a VS Code terminal (Terminal → New Terminal).
 This terminal is running inside the container.
