@@ -87,7 +87,9 @@ Create a `.env` file in the repo root:
 OPENAI_API_KEY=your_key_here
 ```
 
-This project uses [`python-dotenv`](requirements.txt:4) so scripts can load `.env` automatically. Be sure not to commit `.env` to Git, otherwise your API key will be exposed. `.env` has already been added to `.gitignore`.
+This project uses [`python-dotenv`](requirements.txt:4) so scripts can load `.env` automatically. 
+
+Be sure not to commit `.env` to Git, otherwise your API key will be exposed. `.env` has already been added to `.gitignore`, so you shouldn't have to worry about this.
 
 ## Sanity checks (beginner-friendly)
 
@@ -145,8 +147,8 @@ The rule that matters most:
 
 ## Communication
 
-- Discord: `https://discord.gg/NJWWDRT62U`
-- Club website: `https://aimla-website.vercel.app/`
+- Discord: <https://discord.gg/NJWWDRT62U>
+- Club website: <https://aimla-website.vercel.app/>
 
 ## Participants (to be filled near project end)
 
