@@ -12,8 +12,10 @@ Description:
 
 Instructions: 
 
-    Dockerfile: Defines the shared container that everyone uses. **Do not edit**.
+    devcontainer.json: Controls VS Code's behaviour. 
+        Links to the Dockerfile and requirements.txt in the parent directory.
+        If you need additional extensions, you can permanently add them here. 
 
     requirements.txt: Specifies the Python packages to be installed. If you need additional packages, add them here. 
 
-    devcontainer.json: Controls VS Code's behaviour. If you need additional extensions, add them here. 
+    Dockerfile: Defines the shared container that everyone uses. **Do not edit**.
