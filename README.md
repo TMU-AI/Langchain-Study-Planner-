@@ -45,7 +45,7 @@ bob/prompt-tests
 
 Install Git on your system and clone this repo. 
 
-Navigate to the directory where you want to clone the repository using `cd /your-directory` and run:
+Navigate to the directory where you want to clone the repository using `cd your-directory/` and run:
 
 ```bash
 git clone https://github.com/TMU-AI/Langchain-Study-Planner-.git
