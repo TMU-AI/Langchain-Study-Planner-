@@ -9,7 +9,7 @@ This repo is intentionally organized in a non-standard way:
 - **`main` is a template branch**: onboarding, environment setup, example scripts, and sanity tests.
 - **Participant work happens on separate branches**: each person implements features on their own branch. `main` is not a development nor production branch, and will be used for onboarding and documentation only.
 
-This design keeps a stable starting point for beginners while still supporting collaboration through merges between other branches, if desired.
+This design keeps a stable starting point for beginners while still supporting collaboration through merges between other branches.
 
 ## Branch model (read this first)
 
@@ -55,7 +55,7 @@ git clone https://github.com/TMU-AI/Langchain-Study-Planner-.git
 
 If you are new to Python environments, use the Dev Container. It standardizes setup across contributors, is hard to break by accident, and is easy to use.
 
-1. Install VS Code + Docker + [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+1. Install [VS Code](https://code.visualstudio.com/Download) + [Docker Desktop](https://www.docker.com/products/docker-desktop/) + [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 2. Open this repo in VS Code
 3. Run command: **Dev Containers: Reopen in Container** on the project root folder
 
@@ -65,7 +65,7 @@ Packages can be made persistent by adding them to the `requirements.txt` file.
 
 Installed extensions can be made persistent by adding them to the `devcontainer.json` file.
 
-### Option B (optional): Local Python venv
+### Option B (optional): Local Python venv + any IDE
 
 Requirements:
 
