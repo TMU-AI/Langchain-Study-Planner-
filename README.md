@@ -1,15 +1,15 @@
 # Langchain-Study-Planner-
 
-AI-powered study planner portfolio project (TMU AIMLA). Participants build beginner-friendly, industry-relevant portfolio work around **agentic AI** and study planning based on real course materials.
+AI-powered study planner portfolio project ([TMU AIMLA](https://aimla-website.vercel.app/)). Participants build beginner-friendly, industry-relevant portfolio work around **agentic AI** and study planning based on real course materials.
 
 ## What this repository is
 
 This repo is intentionally organized in a non-standard way:
 
-- **`main` is a template branch**: onboarding, environment setup, example scripts, and sanity tests.
-- **Participant work happens on separate branches**: each person implements features on their own branch. `main` is not a development nor production branch, and will be used for onboarding and documentation only.
+- **`main` is a template branch**: documentation, onboarding, environment setup, example scripts, and sanity tests.
+- **Participant work happens on separate branches**: each person implements features on their own branch. 
 
-This design keeps a stable starting point for beginners while still supporting collaboration through merges between other branches.
+This design keeps a stable starting point for beginners while still supporting collaboration through merges outside of `main`.
 
 ## Branch model (read this first)
 
@@ -63,7 +63,7 @@ New packages can be tested safely using `pip install` in the container. Packages
 
 Packages can be made persistent by adding them to the `requirements.txt` file. 
 
-Installed extensions can be made persistent by adding them to the `devcontainer.json` file.
+VSCode extensions can be made persistent by adding them to the `devcontainer.json` file.
 
 ### Option B (optional): Local Python venv + any IDE
 
@@ -133,7 +133,7 @@ Avoid common mistakes:
 
 The rule that matters most:
 
-- Do **not** push to `main`. Any commits or PRs to `main` will be rejected due to branch protection rules.
+- Do **not** push to `main`. Any commits to `main` will be rejected due to branch protection rules.
 - Work on your branch only.
 
 ## Repository layout (template branch)
