@@ -9,11 +9,11 @@ Questions? You can contact us through our [Discord](https://discord.gg/NJWWDRT62
 This initiative is designed to help beginning and intermediate students gain **industry-relevant experience** by executing **end-to-end** projects:
 
 - proposal → implementation → presentation
-- software engineering best practices (version control, virtual environments, API key safety)
-- exposure to real workflows (branches, PRs, reviews)
-- practice with modern agentic AI patterns (tools, memory, planning)
+- software engineering **best practices** (version control, virtual environments, API key safety)
+- exposure to **real workflows** (branches, PRs, reviews)
+- practice with **modern agentic AI** patterns (tools, memory, planning)
 
-We consulted **experts in the field** (graduate students, junior/senior engineers, and senior managers) to determine what skills are most relevant and what experiences are most valuable. 
+We consulted **experts in the field** (graduate students, junior and senior engineers, senior managers) to determine what skills are most relevant and what experiences are most valuable. 
 
 Here is what we determined:
 
@@ -165,19 +165,21 @@ Notes:
 
 ## Project Proposal
 
-This project is intended to help students practice their software engineering skills by solving a real problem using industry-relevant tools. 
+This project is intended to help students **practice their software engineering** skills by solving a *real problem* using **industry-standard** tools. 
 
 ### Problem Statement
 
-Staying organized and on track with your studies is an ongoing challenge for many students. While there are many concerns about how AI is negatively affecting students' ability to learn, are there any positive use-cases where AI can be used to enhance students' learning?
+Staying organized and on track with your studies is an *ongoing challenge* for many students, and many have learned to *rely on AI tools* to help them stay on track. 
+
+While there are many concerns about *negative effects* of AI, are there any positive use-cases where AI can be used to **enhance students' learning**?
 
 ### Solution 
 
-We propose to build a LangChain agent that can help students stay organized and on track with their studies. The agent will be able to answer questions about the course material, structure their learning by providing a study plan based on their goals, and help students stay on track with their assignments. It will provide personalized recommendations by consulting course materials, syllabi, and other resources. 
+We propose to build a **LangChain agent** that can help students stay organized and on track with their studies. The agent will be able to *answer questions* about the course material, *structure their learning* by providing a study plan based on their goals, and help students stay on track with their assignments. It will provide **personalized recommendations** by consulting course materials, syllabi, and other resources. 
 
 ### Proposed Roadmap
 
-Good software is achieved through iterative development and incremental feature development. We suggest the following roadmap to develop the project: 
+Good software is achieved through **iterative development** and **incremental feature addition**. We suggest the following roadmap to develop the project: 
 
 1. **Hello-world LLM call**
     - Set up your API key and run the provided test script
