@@ -100,6 +100,8 @@ Packages can be made **persistent** by adding them to the `requirements.txt` fil
 
 #### Option B: Local Python venv + any IDE
 
+If you prefer a more lightweight, traditional setup, you can use a local Python virtual environment (or use whatever environment manager you prefer - all requirements are listed in `requirements.txt`).
+
 Requirements:
 
 - Python 3.10+ (recommended)
