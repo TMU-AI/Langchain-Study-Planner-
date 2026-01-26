@@ -14,8 +14,9 @@
 		"vscode": {
 			"extensions": [ 
 				"ms-python.python", // Python linting and code completion 
-				"ms-azuretools.vscode-containers" // Dev container compatibility
+				"ms-azuretools.vscode-containers", // Dev container compatibility
 				// If you want more extensions, add them here to make them persistent
+				"kilocode.kilo-code"
 			]
 		}
 	}
