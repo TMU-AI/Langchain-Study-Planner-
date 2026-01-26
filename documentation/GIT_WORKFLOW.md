@@ -37,9 +37,9 @@ Examples:
 ```bash
 antonio/langchain-notes
 
-John/data-cleaning
+jane/data-cleaning
 
-Bob/prompt-tests
+bob/prompt-tests
 ```
 
 ## Step 2: Make Your Changes
