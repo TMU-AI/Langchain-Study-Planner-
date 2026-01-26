@@ -1,6 +1,6 @@
 # Langchain-Study-Planner
 
-This repo is used to document an AI-powered study planner portfolio project, hosted by [TMU AIMLA](https://aimla-website.vercel.app/). Participants build **beginner-friendly**, **industry-relevant** portfolio work around **agentic AI** and study planning based on real course materials.
+This repo is used to document an AI-powered study planner portfolio project, hosted by [TMU AIMLA](https://aimla-website.vercel.app/) (Artificial Intelligence & Machine Learning Association). Participants build **beginner-friendly**, **industry-relevant** portfolio work around **agentic AI** and study planning based on real course materials.
 
 Questions? You can contact us through our [Discord](https://discord.gg/NJWWDRT62U) or through other channels listed on our [website](https://aimla-website.vercel.app/).
 
@@ -9,11 +9,11 @@ Questions? You can contact us through our [Discord](https://discord.gg/NJWWDRT62
 This initiative is designed to help beginning and intermediate students gain **industry-relevant experience** by executing **end-to-end** projects:
 
 - proposal → implementation → presentation
-- software engineering best practices (version control, virtual environments, API key safety)
-- exposure to real workflows (branches, PRs, reviews)
-- practice with modern agentic AI patterns (tools, memory, planning)
+- software engineering **best practices** (version control, virtual environments, API key safety)
+- exposure to **real workflows** (branches, PRs, reviews)
+- practice with **modern agentic AI** patterns (tools, memory, planning)
 
-We consulted **experts in the field** (graduate students, junior/senior engineers, and senior managers) to determine what skills are most relevant and what experiences are most valuable. 
+We consulted **experts in the field** (graduate students, junior and senior engineers, senior managers) to determine what skills are most relevant and what experiences are most valuable. 
 
 Here is what we determined:
 
@@ -75,10 +75,11 @@ bob/prompt-tests
 
 ## Quickstart
 
-### Install Git on your system and clone this repo. 
+### Clone the repo 
 
- 1. Use your command line to **navigate to the directory** where you want to clone this repo.
- 2. Run the command below. This will create a copy of these files on your computer.
+ 1. Install [Git](https://git-scm.com/install) on your machine
+ 2. Use your command line to **navigate to the directory** where you want to clone this repo
+ 3. Run the command below. This will create a copy of these files on your computer
 ```bash
 git clone https://github.com/TMU-AI/Langchain-Study-Planner-.git
 ```
@@ -98,6 +99,8 @@ New packages can be tested safely using `pip install` in the container. Packages
 Packages can be made **persistent** by adding them to the `requirements.txt` file. VSCode extensions can be made persistent by adding them to the `devcontainer.json` file.
 
 #### Option B: Local Python venv + any IDE
+
+If you prefer a more lightweight, traditional setup, you can use a local Python virtual environment (or use whatever environment manager you prefer - all requirements are listed in `requirements.txt`).
 
 Requirements:
 
@@ -162,19 +165,21 @@ Notes:
 
 ## Project Proposal
 
-This project is intended to help students practice their software engineering skills by solving a real problem using industry-relevant tools. 
+This project is intended to help students **practice their software engineering** skills by solving a *real problem* using **industry-standard** tools. 
 
 ### Problem Statement
 
-Staying organized and on track with your studies is an ongoing challenge for many students. While there are many concerns about how AI is negatively affecting students' ability to learn, are there any positive use-cases where AI can be used to enhance students' learning?
+Staying organized and on track with your studies is an *ongoing challenge* for many students, and many have learned to *rely on AI tools* to help them stay on track. 
+
+While there are many concerns about *negative effects* of AI, are there any positive use-cases where AI can be used to **enhance students' learning**?
 
 ### Solution 
 
-We propose to build a LangChain agent that can help students stay organized and on track with their studies. The agent will be able to answer questions about the course material, structure their learning by providing a study plan based on their goals, and help students stay on track with their assignments. It will provide personalized recommendations by consulting course materials, syllabi, and other resources. 
+We propose to build a **LangChain agent** that can help students stay organized and on track with their studies. The agent will be able to *answer questions* about the course material, *structure their learning* by providing a study plan based on their goals, and help students stay on track with their assignments. It will provide **personalized recommendations** by consulting course materials, syllabi, and other resources. 
 
 ### Proposed Roadmap
 
-Good software is achieved through iterative development and incremental feature development. We suggest the following roadmap to develop the project: 
+Good software is achieved through **iterative development** and **incremental feature addition**. We suggest the following roadmap to develop the project: 
 
 1. **Hello-world LLM call**
     - Set up your API key and run the provided test script
