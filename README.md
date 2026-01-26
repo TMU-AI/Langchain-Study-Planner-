@@ -1,6 +1,6 @@
 # Langchain-Study-Planner
 
-This repo is used to document an AI-powered study planner portfolio project, hosted by [TMU AIMLA](https://aimla-website.vercel.app/). Participants build **beginner-friendly**, **industry-relevant** portfolio work around **agentic AI** and study planning based on real course materials.
+This repo is used to document an AI-powered study planner portfolio project, hosted by [TMU AIMLA](https://aimla-website.vercel.app/) (Artificial Intelligence & Machine Learning Association). Participants build **beginner-friendly**, **industry-relevant** portfolio work around **agentic AI** and study planning based on real course materials.
 
 Questions? You can contact us through our [Discord](https://discord.gg/NJWWDRT62U) or through other channels listed on our [website](https://aimla-website.vercel.app/).
 
@@ -75,10 +75,11 @@ bob/prompt-tests
 
 ## Quickstart
 
-### Install Git on your system and clone this repo. 
+### Clone the repo 
 
- 1. Use your command line to **navigate to the directory** where you want to clone this repo.
- 2. Run the command below. This will create a copy of these files on your computer.
+ 1. Install [Git](https://git-scm.com/install) on your machine
+ 2. Use your command line to **navigate to the directory** where you want to clone this repo
+ 3. Run the command below. This will create a copy of these files on your computer
 ```bash
 git clone https://github.com/TMU-AI/Langchain-Study-Planner-.git
 ```
