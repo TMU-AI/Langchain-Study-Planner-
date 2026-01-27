@@ -179,7 +179,7 @@ We propose to build a **LangChain agent** that can help students stay organized 
 
 ### Proposed Roadmap
 
-Good software is achieved through **iterative development** and **incremental feature addition**. We suggest the following roadmap to develop the project: 
+Good software is achieved through **iterative development** and **incremental feature addition**. If you're **not sure where to start**, we suggest the following roadmap to develop the project (but encourage you to pursue your own ideas as often as possible): 
 
 1. **Hello-world LLM call**
     - Set up your API key and run the provided test script
